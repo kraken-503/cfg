@@ -43,3 +43,7 @@ git clone https://github.com/kraken-503/cfg.git
 ```ba
 python3 cfg.py
 ```
+<br><br>
+<p align="center">
+  <em>Made with ❤️ by kraken-503</em>
+</p>
